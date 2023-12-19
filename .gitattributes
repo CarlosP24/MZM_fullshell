@@ -1,6 +1,2 @@
 *.jld2 filter=lfs diff=lfs merge=lfs -text
 *.csv filter=lfs diff=lfs merge=lfs -text
-*.jl filter=lfs diff=lfs merge=lfs -text
-/LICENSE filter=lfs diff=lfs merge=lfs -text
-*.toml filter=lfs diff=lfs merge=lfs -text
-*.md filter=lfs diff=lfs merge=lfs -text
